@@ -1,0 +1,112 @@
+# CS463g
+CS463G-001: Intro to Artificial Intelligence (Fall 2022)
+Jump to Today
+Note the Week-by-Week Outline at the Bottom!
+
+Time & place:  10:00 am - 10:50 am, 323 RMB
+
+Prof:  Dr. Goldsmith, 311 Marksbury Building (contact by email)
+
+Office Hours: TBA and by appointment (Links to an external site.)
+
+Grader: Amanda Jones, contact via Canvas
+
+Topics covered will include:
+
+intelligent agents
+search and game-playing
+logical systems
+planning systems
+uncertainty -- probability theory, inference, and decision theory
+The course will cover both theory and practice, including programming assignments that utilize concepts covered in lectures.
+
+Prereqs:
+
+CS 315 and CS 375, and engineering or graduate standing. You should know how to program, be familiar with basic algorithms and data structures, especially for graphs and trees, and be familiar with propositional and predicate logic.
+
+Textbook (strongly recommended):
+
+Artificial Intelligence: A Modern Approach, 3rd Edition  (Links to an external site.)by Stuart Russell and Peter Norvig. Prentice Hall, 2009.
+
+Note that there is a 4th edition available for a mere $175 or so.   I do not know what has changed in the new edition;  you will be fine with the 3rd edition (or the international edition, 3rd or 4th edition).  It provides reinforcement for the lectures, but no assignments will be from the book.
+
+Grading:
+
+There will be programming assignments approximately every other week, due Fridays by 11:59 pm. Assignments will be posted on Canvas at least two weeks prior to the due date.  The lowest program grade will be dropped. Plagiarized work will be penalized for all parties, according to University regulations.  Note:  these are not programs you can do the night before they are due.  Plan accordingly.
+For each program, you will be assigned a new "programming buddy."  You may submit jointly with that person or separately, but must include their name on your assignment.  You may also work separately and sanity-check each other's work, with or without discussing the assignment before or during the time you work on it.  You will separately submit a who-did-what.  These will be checked for existence and consistency, for a few points on the assignment.
+There will be occasional short writing assignments worth 1 point each, on the ethical, professional, personal, and societal impacts of AI.
+For your final, you will will do a paper/project of your choosing.  It will involve at least a shallow investigation of the peer reviewed, published, technical AI literature.  There will be in-class discussions of what this means, and how to find relevant papers.  There will be be a proposal due (by email) on September 14, and a reading summary and outline due on October 23rd.
+In addition, you will be expected to post occasionally to  an online forum, and to answer questions on that forum.
+Assignments (programs) will be 60% of your grade, postings will be 8%, the final proposal(Links to an external site.) will be 5%, the summary (midterm submission) will be 7%, and the final 15%, and occasional writings 5%.
+For undergraduates, midterm grades will be posted in myUK by the deadline established by the University Senate and published in the Academic Calendar (Links to an external site.). (http://www.uky.edu/registrar/content/‌academic-calendar (Links to an external site.))
+
+Those taking CS 463G for graduate credit (in any department except CS) will have the same assignments, but the lowest grade will not be dropped, and the cutoff for an A will be 85%, with 10% stepdowns per letter grade.
+
+
+READ THIS:
+Attendance in class and section is very strongly encouraged.  However, if you are feeling sick, please get tested;  if you are feeling sick, please stay home.  Sharing in that case is not caring.  If you know you cannot attend class, please notify me so I can plan accordingly. If you are absent you are personally responsible for learning about any missed material from the syllabus and from classmates.
+
+
+You are encouraged to discuss homework problems, AS LONG AS YOU GIVE CREDIT  TO WHOMEVER DISCUSSED THEM WITH YOU AT THE TOP OF YOUR HOMEWORK (including your programming buddy).  You are strongly discouraged from seeking solutions online; if you do, YOU MUST CITE ANY SOURCES EXPLICITLY FOR EACH PROBLEM FOR WHICH YOU FOUND AN OUTSIDE SOURCE. Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.  The first instance of plagiarism will result in an un-droppable 0 on the assignment. An un-droppable 0 on an assignment typically drops you one letter grade. The second instance will become part of your permanent UK record, and can result in expulsion from the program.
+
+
+You are encouraged to visit Dr. Goldsmith  in her office hours or to send them email at any time if you are stuck on homework problems. You do not need an appointment for regularly scheduled hours. Email sent late the night before something is due probably won't be answered in a timely fashion. PLAN AHEAD.
+
+Class Recording Notification
+The University of Kentucky Student Code of Conduct defines Invasion of Privacy as using electronic or other devices to make a photographic, audio, or video record of any person without their prior knowledge or consent when such a recording is likely to cause injury or distress.
+
+Meetings of this course may be recorded if on Zoom. All video and audio recordings of lecturers and class meetings, provided by the instructors, are for educational use by students in this class only. They are available only through the Canvas shell for this course and are not to be copied, shared, or redistributed.
+
+As addressed in the Student Code of Conduct, students are expected to follow appropriate university policies and maintain the security of linkblue accounts used to access recorded class materials. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments.
+
+If the instructor or a University of Kentucky office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. In anticipation of such cases, students may be asked to complete an “authorization of use” form by a faculty member.
+
+Video and audio recordings by students are not permitted during the class unless the student has received prior permission from the instructor. Any sharing, distribution, and or uploading of these recordings outside of the parameters of the class is prohibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor.
+
+All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced or sold without prior permission from the instructors. A student may use the material for reasonable educational and professional purposes extending beyond this class, such as studying for a comprehensive or qualifying examination in a degree program, preparing for a professional or certification examination, or to assist in fulfilling responsibilities at a job or internship.
+
+Mental Health and Wellness
+
+University life can be a demanding and stressful experience. Please know there are numerous resources offered by the counseling center to support student growth and assist students with mental health, academic and/ or other personal concerns that might interfere with academic performance or a sense of personal well-being while at UK.
+
+The University of Kentucky Counseling Center provides same day walk-in crisis appointments for all students Monday thru Friday between 8 am to 4:30 pm. The Counseling Center is in Frazee Hall with its reception desk in room 106. If you would like to speak with a clinician outside of normal business hours or prefer to speak over the phone, the number below can be dialed and option 1 can be selected to speak directly to a mental health clinician.
+
+24-hour Crisis Consultation: (859) 257-8701
+
+Here is a link that contains the other various services offered by the counseling center including the relaxation room and Wildcat Wellness Workshops:  http://www.uky.edu/counselingcenter/ (Links to an external site.)
+
+(They asked that we all include this in our syllabi.  This is not to scare you about this particular course!!!)
+
+Diversity, Equity, and Inclusion Statement (UK boilerplate)
+
+The University of Kentucky is committed to our core values of diversity and inclusion, mutual respect and human dignity, and a sense of community (Governing Regulations XIV (Links to an external site.)). We acknowledge and respect the seen and unseen diverse identities and experiences of all members of the university community (https://www.uky.edu/regs/gr14 (Links to an external site.)). These identities include but are not limited to those based on race, ethnicity, gender identity and expressions, ideas and perspectives, religious and cultural beliefs, sexual orientation, national origin, age, ability, and socioeconomic status. We are committed to equity and justice and providing a learning and engaging community in which every member is engaged, heard, and valued.
+
+We strive to rectify and change behavior that is inconsistent with our principles and commitment to diversity, equity, and inclusion. If students encounter such behavior in a course, they are encouraged to speak with the instructor of record and/or the Office of Institutional Equity and Equal Opportunity (Links to an external site.). Students may also contact a faculty member within the department, program director, the director of undergraduate or graduate studies, the department chair, any college administrator, or the dean. All of these individuals are mandatory reporters under University policies.
+
+
+Outcomes and Assessments
+
+The following are the stated learning outcomes for this course. These will be assessed by a survey at the end of the semester, in compliance with certification standards for academic Computer Science departments.
+
+Students will learn basic concepts in logic and artificial intelligence. In particular, the student will be able to:
+
+use current techniques, skills, and tools necessary for computing practices;
+apply mathematical foundations, algorithmic principles, and computer science theory in the modeling and design of computer-based systems in a way that demonstrates comprehension of the tradeoffs involved in design choices;
+understand search algorithms;
+use logic to represent and reason about domain knowledge;
+use Bayesian networks to represent and reason about domain knowledge;
+model and solve planning problems;
+understand the relevance of Artificial Intelligence to the real world;
+program in a declarative programming language;
+improve their ability to analyze a problem, and identify and define the computing requirements appropriate to its solution;
+improve their ability to design, implement and evaluate a computer-based system, process, component, or program to meet desired needs.
+
+
+
+
+ 
+
+
+ 
+
+
